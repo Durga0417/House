@@ -7,16 +7,24 @@
     "FarmerCredential": {
       "@id": "https://durga0417.github.io/House/house.json#HouseCredential"
     },
-    "fullName": "schema:name",
-    "mobileNumber": "schema:telephone",
-    "dateOfBirth": "schema:birthDate",
-    "gender": "schema:gender",
-    "state": "schema:addressRegion",
-    "district": "schema:addressLocality",
-    "villageOrTown": "schema:addressLocality",
-    "postalCode": "schema:postalCode",
-    "landArea": "schema:Number",
-    "face": "schema:Text",
-    "personID": "schema:Text"
+     "NumberOfCAR": "schema:Text",
+    "RegistrationDate": "schema:DateTime",
+    "RuralPropertyName": "schema:Text",
+    "Municipality": "schema:Text",
+    "Latitude": "schema:Text",
+    "Longitude": "schema:Text",
+    "TotalArea": "schema:Text",
+    "FiscalModules": "schema:Float",
+    "ProtocolCode": "schema:Text",
+    "CPF": "schema:Text",
+    "HolderName": "schema:Person",
+    "TotalDeclaredArea": "schema:Float",
+    "AdministrativeEasementArea": "schema:Float",
+    "NetArea": "schema:Float",
+    "ConsolidatedArea": "schema:Float",
+    "NativeVegetationRemnant": "schema:Float",
+    "LegalReserveArea": "schema:Float",
+    "PermanentPreservationArea": "schema:Float",
+    "RestrictedUseArea": "schema:Float"
   }
 }
